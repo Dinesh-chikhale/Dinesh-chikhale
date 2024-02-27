@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dinesh Chikhale</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="coding" width="400" scr="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" scr="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF53I1bMQ900-ckpSmpxGdTCHEvXJQUbLg01VE-Nhg9A&s">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh-chikhale&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh-chikhale" /> </p>
 
 - 🌱 I’m currently learning **Spring boot,hibernate,Java,React,Javascript**
