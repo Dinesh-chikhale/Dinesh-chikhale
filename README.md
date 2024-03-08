@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **Spring boot,hibernate,Java,React,Javascript**
 
-- M [https://www.linkedin.com/in/dinesh-chikhale](https://www.linkedin.com/in/dinesh-chikhale)
 
 - 📫 How to reach me **dineshchikhale2212@gmail.com**
 
